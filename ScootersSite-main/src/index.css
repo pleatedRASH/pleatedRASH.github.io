@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hero {
+    background-image: url('../src/assets/images/scott1.jpg.jpg')
+}
